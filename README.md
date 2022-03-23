@@ -23,8 +23,14 @@ Built a QR Code Card layout using HTML & CSS to start my Web Development Journey
 
 ### Screenshot
 
-![Desktop Design](screenshot/desktop-view.jpg)
-![Mobile Design](screenshot/mobile-view.jpg)
+**Desktop View**
+
+![Desktop Design](screenshot/desktop-view.png)
+
+**Mobile View**
+
+
+![Mobile Design](screenshot/mobile-view.png)
 
 
 ### Links
