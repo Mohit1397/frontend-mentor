@@ -35,8 +35,8 @@ Built a QR Code Card layout using HTML & CSS to start my Web Development Journey
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mohit1397.github.io/qr-code-card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-using-html-and-css-ByzEWgFfq](https://www.frontendmentor.io/solutions/responsive-qr-code-using-html-and-css-ByzEWgFfq)
+- Live Site URL: [https://mohit1397.github.io/qr-code-card/](https://mohit1397.github.io/qr-code-card/)
 
 ## My process
 
