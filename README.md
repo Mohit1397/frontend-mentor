@@ -87,6 +87,6 @@ I want to try and apply different scripts once I have learned JS.
 ## Author
 
 - Website - [Mohit Pandey](https://mohit1397.github.io/resume/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mohit1397)
-- Twitter - [@yourusername](https://twitter.com/mohitpandey1397)
+- Frontend Mentor - [@Mohit1397](https://www.frontendmentor.io/profile/Mohit1397)
+- Twitter - [@mohitpandey1397](https://twitter.com/mohitpandey1397)
 
